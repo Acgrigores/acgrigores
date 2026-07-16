@@ -1,7 +1,7 @@
 # Hi there, I'm Anna Grigorescu! 👋
 
 [!TIP]
-My summer projects are internal to Google and many of my GitHub projects are private, so you might want to check out annagrigorescu.com if you're curious about what I've been working on!
+> My summer projects are internal to Google and many of my GitHub projects are private, so you might want to check out annagrigorescu.com if you're curious about what I've been working on!
 
 I am a Computer Science Honors student (James Scholar) at the University of Illinois Urbana-Champaign minoring in Art History. I enjoy combining highly technical, large-scale systems engineering with human-centric design.
 
